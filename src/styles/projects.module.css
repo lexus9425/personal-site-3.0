@@ -1,0 +1,21 @@
+.section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .title {
+    color: var(--russian-green-color);
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  @media screen and (min-width: 1025px) {
+    .title {
+      font-size: 60px;
+    }
+  }

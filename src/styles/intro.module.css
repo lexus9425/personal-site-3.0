@@ -1,0 +1,38 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    margin-left: 30px;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  .content h1 {
+    font-size: 40px;
+  }
+  
+  .content h2 {
+    font-size: 20px;
+  }
+  
+  span {
+    color: var(--russian-green-color);
+    font-weight: 700;
+  }
+  
+  @media screen and (min-width: 1025px) {
+    .content {
+      justify-content: flex-start;
+      margin-top: 150px;
+      height: 90vh;
+      margin-left: 80px;
+    }
+  
+    .content h1 {
+      font-size: 70px;
+    }
+  
+    .content h2 {
+      font-size: 30px;
+    }
+  }

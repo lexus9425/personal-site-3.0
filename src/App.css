@@ -1,0 +1,16 @@
+:root {
+    --russian-green-color: #69995D;
+    --eerie-black-color: black;
+    --tickle-me-pink-color: #FF7BA3;
+    --mint-cream-color: #F1F7EE;
+    --gold-crayola-color: #FFCB7D;
+  }
+  
+  html {
+    background-color: var(--eerie-black-color);
+    color: var(--mint-cream-color);
+  }
+  
+  .relative {
+    position: relative;
+  }
