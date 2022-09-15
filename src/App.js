@@ -1,7 +1,6 @@
 import React from 'react';
 
 import './App.css';
-import styles from './styles/header.css';
 
 import Intro from './pages/Intro';
 import About from './pages/About';
