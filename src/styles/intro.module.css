@@ -19,7 +19,7 @@
     color: var(--russian-green-color);
     font-weight: 700;
   }
-  
+
   @media screen and (min-width: 1025px) {
     .content {
       justify-content: flex-start;
