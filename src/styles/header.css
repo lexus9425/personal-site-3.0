@@ -32,12 +32,22 @@
   .desktop-menu a:hover {
     color: var(--tickle-me-pink-color);
   }
-
-  .fadeIn {
+  
+  .fadeIn1 {
     animation: fadeIn 1.3s ease-in;
     /* animation-delay: 1s; */
   }
 
+  .fadeIn2 {
+    animation: fadeIn 3.0s ease-in;
+    /* animation-delay: 1s; */
+  }
+
+  .fadeIn3 {
+    animation: fadeIn 5.0s ease-in;
+    /* animation-delay: 1s; */
+  }
+  
   nav {
     padding: 30px;
     margin-bottom: 80px;
