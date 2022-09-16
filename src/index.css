@@ -42,18 +42,18 @@ code {
 /* Animations for intro */
 
 .fadeIn1 {
-  animation: fadeIn 1.3s ease-in;
+  animation: fadeIn 1.0s ease-in;
   /* animation-delay: 1s; */
 }
 
 .fadeIn2 {
   animation: fadeIn 3.0s ease-in;
-  /* animation-delay: 1s; */
+  /* animation-delay: 3s; */
 }
 
 .fadeIn3 {
   animation: fadeIn 5.0s ease-in;
-  /* animation-delay: 1s; */
+  /* animation-delay: 5s; */
 }
 
 @keyframes fadeIn {
